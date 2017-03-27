@@ -14,7 +14,7 @@ pygame.init()
 ## --- NEXT 4 LINES MUST BE MODIFIED TO MATCH ACTUAL SITUATION --- ##
 MY_SERVER_HOST = '10.0.0.16'
 MY_SERVER_PORT = 9999
-OTHER_HOST = '93.161.90.162'  # WireLess2
+OTHER_HOST = '192.168.1.18'
 OTHER_PORT = 9992
 #####################################################################
 
